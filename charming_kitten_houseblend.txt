@@ -1,0 +1,15 @@
+8f12b9f2832ee622a45631c32547d337 (GOLDBOY)
+Drops: 94c70c76bc2b2cf946cf02d0020b4c4b (HOUSEBLEND)
+Compile Time: 2018-12-11 17:27:01
+C&C: ssw.kaspersky.team
+Example URL: http://ssw.kaspersky.team/idx.asmx/getInfo?ver=Ko0nBZ0&aip=CJ0kC2umBZOu&osv
+=LsbkP6ztSo0nC215RdHbSd1oQNDb82XsPN9pQMzk83OkCoa&cnm=Sa9qfd1U&mac
+
+=RM5Z86vlT21cRtLkP0&adm=GG
+
+a993b34075f0973c039f5689bb62e7a8 (HOUSEBLEND)
+C&C: ssw.kaspersky.team
+Compile Time: Timestompped, First observed 2019-01-27
+Example URL:
+
+http://ssw.kaspersky.team/idx.asmx/getInfo?ver=Ko0nBZ0&aip=CJ0kC2umBZOr&osv=LsbkP6ztSo0t851oRsPbStDfRsvXR20eTcLoSsblRY0sBZ4f&cnm=6XOWxZSDzF8ov&mac=RM5Z86vlT21cRtLkP0&adm=GG
