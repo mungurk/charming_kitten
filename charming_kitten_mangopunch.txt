@@ -10,3 +10,30 @@ a194e3bf830104922295c37e6d19d9a2
 dbc79b43edf56d75092b91589ad1d594
 994096a4f4d8d98d3a82fa643ab79ab5
 8c364f033396663302566e85455c7072
+
+
+
+Recent MANGOPUNCH Activity by Iran-Nexus Actors Observed
+MANGOPUNCH is a backdoor that can self-delete, download files, unzip files, and execute native Windows commands.
+kill_me
+Stops service execution and deletes itself from disk
+
+upload <download URL> <filepath>
+Downloads a file from given URL saving it to given path
+
+unzip <source> <destination>
+Unzips file from source to destination
+
+
+9dd7c75b1c175ac99868969449f77d3e
+d02e828d2451400c93cf17e9d1d495e4
+d2870d1d08020ed9633e91f91931953b
+2145e7ec1488adcd882169bf17df245b 
+11be0f1dfa9dd7073593f2da7aa4297e
+c9492cc8858c0d21d9aa12d4bd0db3de 
+b0eeaa1bd7b5dbd4e712a38a0a9b497c 
+9dd7c75b1c175ac99868969449f77d3e
+994096a4f4d8d98d3a82fa643ab79ab5
+8c364f033396663302566e85455c7072
+
+
