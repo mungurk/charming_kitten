@@ -1,0 +1,564 @@
+IP	45.32.68.241
+Identifier	Attacker
+Network Type	network
+Identifier	Attacker
+Network Type	url
+Url	http://64.150.189.90/my.exe
+Network Type	wateringHole
+Url	aramcoexpats.com
+Identifier	Attacker
+Network Type	url
+Url	http://212.71.249.170/my.exe
+Identifier	Attacker
+Network Type	url
+Url	http://86.105.54.144/download/flashplayer19_install.exe
+IP	103.3.62.117
+Domain	android.top7apps.com
+Identifier	Related
+Network Type	network
+IP	45.79.4.164
+Domain	elegomall.com
+Identifier	Related
+Network Type	network
+Identifier	Related
+Network Type	url
+Url	http://w3schools.ddns.net/jquery.js
+Identifier	Related
+Network Type	url
+Url	http://w3schools.ddns.net/jquery.js
+IP	64.150.189.90
+Identifier	Attacker
+Network Type	network
+Network Type	wateringHole
+Url	international.lloydsbank.com
+Identifier	Attacker
+Network Type	url
+Url	http://breaking-news.club/download/interiordesigns.exe
+IP	45.79.4.164
+Domain	www.elegomall.com
+Identifier	Related
+Network Type	network
+IP	45.79.4.164
+Identifier	Attacker
+Network Type	network
+IP	104.238.97.226
+Domain	xvy.in
+Identifier	Attacker
+Registrant Name	md riyaz
+Network Type	network
+Registrant Email	riyaz.me@gmail.com
+Identifier	Related
+Network Type	url
+Url	http://google-analytics.serveirc.com:3001/jquery3-1.js
+Domain	www.kronos.com
+Identifier	Compromised
+Network Type	network
+Domain	aramcoexpats.com
+Identifier	Compromised
+Network Type	network
+Domain	xvy.in
+Identifier	Attacker
+Registrant Name	md riyaz
+Network Type	network
+Registrant Email	riyaz.me@gmail.com
+Identifier	Attacker
+Network Type	url
+Url	http://45.58.37.142/microsoftupdate.exe
+Domain	international.lloydsbank.com
+Identifier	Compromised
+Network Type	network
+Identifier	Compromised
+Network Type	url
+Url	http://forum.aramcoexpats.com
+IP	94.237.25.45
+Identifier	Attacker
+Network Type	network
+Identifier	Attacker
+Network Type	url
+Url	http://45.79.157.129:3001/jquery.js
+Domain	forum.aramcoexpats.com
+Identifier	Compromised
+Network Type	network
+IP	31.131.21.236
+Domain	w3schools.ddns.net
+Identifier	Attacker
+Network Type	network
+IP	45.32.68.241
+Domain	emilymarsden.serveblog.net
+Identifier	Attacker
+Network Type	network
+IP	162.247.155.101
+Domain	download-google.ddns.net
+Identifier	Attacker
+Network Type	network
+IP	45.56.123.129
+Identifier	Attacker
+Network Type	network
+Identifier	Attacker
+Network Type	url
+Url	http://86.105.54.144/download/flashplayer19_install.exe
+Identifier	Compromised
+Network Type	url
+Url	http://aramcoexpats.com
+IP	94.237.25.45
+Identifier	Attacker
+Network Type	network
+Identifier	Attacker
+Network Type	url
+Url	http://download-google.ddns.net/download/flashplayerinstall.exe
+Domain	breaking-news.club
+Identifier	Attacker
+Network Type	network
+IP	162.247.155.101
+Domain	update-system.ddns.net
+Identifier	Attacker
+Network Type	network
+IP	45.58.37.142
+Identifier	Attacker
+Network Type	network
+Identifier	Attacker
+Network Type	url
+Url	http://212.71.249.170/JoanSlideshow.exe
+IP	85.90.246.94
+Domain	resumeworld.serveblog.net
+Identifier	Attacker
+Network Type	network
+Network Type	wateringHole
+Url	resumeworld.serveblog.net
+IP	45.63.14.123
+Identifier	Attacker
+Network Type	network
+Identifier	Attacker
+Network Type	url
+Url	http://64.150.189.90/tools/my.exe
+IP	162.247.155.101
+Domain	update-system.ddns.net
+Identifier	Attacker
+Network Type	network
+Identifier	Related
+Network Type	url
+Url	http://w3schools.ddns.net/jquery.js
+Identifier	Attacker
+Network Type	url
+Url	http://45.79.157.129:3001/jquery3-1.js
+Identifier	Attacker
+Network Type	url
+Url	http://breaking-news.club/download/securitywarning.apk
+Identifier	Attacker
+Network Type	url
+Url	http://w3schools.ddns.net/jquery.js
+Identifier	Attacker
+Network Type	url
+Url	http://google-analytics.serveirc.com:3001/jquery3-1.js
+IP	104.238.97.226
+Domain	jobsatgemalto.com
+Identifier	Attacker
+Registrant Name	Domain Privacy Service FBO Registrant.
+Network Type	network
+Registrant Email	jobsatgemalto.com@domainprivacygroup.com
+IP	45.79.157.129
+Identifier	Attacker
+Network Type	network
+IP	45.32.68.241
+Domain	download-google.ddns.net
+Identifier	Attacker
+Network Type	network
+Identifier	Related
+Network Type	url
+Url	http://45.63.14.123
+IP	103.3.62.117
+Identifier	Attacker
+Network Type	network
+Network Type	wateringHole
+Url	www.kronos.com
+Identifier	Attacker
+Network Type	url
+Url	http://shlnk.be/rpiwe
+Network Type	wateringHole
+Url	emilymarsden.serveblog.net
+IP	85.90.246.94
+Domain	multiplayer.servegame.com
+Identifier	Attacker
+Network Type	network
+Identifier	Related
+Network Type	url
+Url	http://w3schools.ddns.net/jquery.js
+Network Type	wateringHole
+Url	forum.aramcoexpats.com
+IP	162.247.155.101
+Identifier	Attacker
+Network Type	network
+Identifier	Attacker
+Network Type	url
+Url	http://xvy.in/q4fml
+IP	86.105.54.144
+Identifier	Attacker
+Network Type	network
+IP	45.79.4.164
+Identifier	Attacker
+Network Type	network
+Domain	update.mcafeea.com
+Identifier	Attacker
+Network Type	network
+IP	45.32.68.241
+Domain	download-google.ddns.net
+Identifier	Attacker
+Network Type	network
+IP	104.238.97.226
+Identifier	Attacker
+Network Type	network
+IP	45.32.68.241
+Domain	emilymarsden.serveblog.net
+Identifier	Attacker
+Network Type	network
+IP	184.168.221.46
+Domain	shlnk.be
+Identifier	Attacker
+Network Type	network
+Network Type	wateringHole
+Url	forum.aramcoexpats.com
+IP	162.247.155.101
+Domain	vuus0003566.online-vm.com
+Identifier	Related
+Network Type	network
+Identifier	Related
+Network Type	url
+Url	http://45.79.157.129:3001/jquery.js
+Sha1	cffd1a8252f418d6d5c8ea3fc36295ca1dd4edcb
+File Name	serviceupda.exe
+Identifier	Attacker
+File Size	368640
+Fuzzy Hash	6144:IdP9v0fGSLexD8Bvn0aRLrk6eJFfbPouAXasItUPMi54rni6kYrw0+AP/JPwCZkY:IdP9MfGp81n096EJMewMi54ribFyJZ3h
+Packer	Microsoft Visual C++ v7.0
+Sha256	ec187fa1b5e8322ee8f0638c5bc8def4d231b2525d5ec47bf6ba5112b31e8866
+Type	PE32 executable for MS Windows (console) Intel 80386 32-bit
+Md5	a6719ac8e069f3aa4abe2a087a3dd317
+Sha1	dd538f5e0847a245a6b3256983aa3cf2677b137e
+File Name	flashplayer19.7_install.exe
+Identifier	Attacker
+File Size	2183168
+Fuzzy Hash	24576:hfAqOavfPNman8jarwLeXfB0yfM8GUS/heII8oyn6yKXbs1x3/rcpBpnuq9zq4Mq:hua82rNJKU0n8Xg1V/yrBXP
+Packer	Microsoft Visual C++ v6.0
+Sha256	ee1e2823184ac4e3549f8774db700170ea763a2fde7ddcb4379837ed2487463a
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	ab59ba909a34ec973045dcad6e867276
+Sha1	8b8048415a61546cb1f898129f8447e16fcffd0a
+File Name	serviceupdat.exe
+Identifier	Attacker
+File Size	364032
+Fuzzy Hash	6144:FdP9v0fGSLexD8Bvn0aRLrk6eJFfbPoCasItUPMi54rni6kYrw0+AP/JPwCZk2/5:FdP9MfGp81n096EZewMi54ribFyJZ3h
+Packer	Microsoft Visual C++ v7.0
+Sha256	a093e19b6f278e93cdede9ae371616471fc881e9d93ec577f5239f3a49212a98
+Type	PE32 executable for MS Windows (console) Intel 80386 32-bit
+Md5	d7eecd49e082d6314cbf33d15ee57aad
+Sha1	1ea0748503ded1ac4be5789557e7c2782805178a
+File Name	Slideshow1.exe
+Identifier	Related
+File Size	3474188
+Fuzzy Hash	49152:i4jkMPQtvp+1rzcowEzEvX0hXKB7e47nO8Kfi3HGbAjOJcKic2d7pngXyAy:i4j/PQtIK/gLfi3OuOJcVc2XnYyt
+Packer	Borland Delphi 3.0 (???)
+Sha256	af54f670d356a62d9971132f1196d4980be1a65e899e4fb7d4351d3c384b76e9
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	8706cbfe45199f2bfd6e7a8fd93f0fae
+Sha1	1df2864a3414fe6186beffc6fe0b83c3d3b6a26d
+File Name	flashplayer20_ga_install.exe
+Identifier	Attacker
+File Size	2211840
+Fuzzy Hash	24576:LxWGwA22CFFmwLeXfB0yfM8GUS/heII8oyn6yKXbs1x3/rcpBpnuq9zq4Mk/BXdf:QLsNJKU0n8Xg1V/yrBXP
+Packer	Microsoft Visual C++ v6.0
+Sha256	f591a3c16ddf18df056441e2614af2b2d7d48738992b4d97e3d95ab5fdb80652
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	7243ab4937eb43d8b232e0a4cab6fb7d
+Sha1	87c708d40c60cb2058823131c33f1ce7db6ad5a8
+File Name	JoanSlideshow.exe
+Identifier	Attacker
+File Size	1753278
+Fuzzy Hash	49152:ATipttnjny4buFSR+10NG+NtLvgbzc3aRH:AGtnjywuQc0NNfL6XH
+Packer	Microsoft Visual C++ 8
+Sha256	e60fca4a46aefc3940a0d7a902f4bb57931beb87f9bea3211829e68b1f4f58ed
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	b144f64ecb51c4a9b940e882213b5f40
+Sha1	22f3f57850ede3019b4825aa6c8808cc711223b9
+File Name	my.exe
+Identifier	Attacker
+File Size	39936
+Fuzzy Hash	768:5yVYOts/vZk9AMtHwn7XXCEkMfoBRbgmVPwgMRrI7YK4:Sdts3eqNn7icoQdR7
+Packer	Borland Delphi 3.0 (???)
+Sha256	d08d737fa59edbea4568100cf83cff7bf930087aaa640f1b4edf48eea4e07b19
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	ece5b62a4ed4e88dab4f1b5451f54794
+Sha1	f2cd6c8107f6ab35212f4ef6a24027183e5fe255
+File Name	serviceupdat.exe
+Identifier	Attacker
+File Size	367104
+Fuzzy Hash	6144:ddP9v0f9SLexD8Bvn0aRLrk6eJFfbPoCasItUPMi54rni6kYrw0+AP/JPwCZk2/5:ddP9Mf9p81n096EZewMi54ribFyJZ3h
+Packer	Microsoft Visual C++ v7.0
+Sha256	9bcba009c85d664d1b60ea9be2eff2d325ac73b37891555c5adef13c658d50a6
+Type	PE32 executable for MS Windows (console) Intel 80386 32-bit
+Md5	d04bf56670f2a7ae9f7cc0fcc7fb8d37
+Sha1	22f3f57850ede3019b4825aa6c8808cc711223b9
+File Name	Slideshow.exe
+Identifier	Attacker
+File Size	39936
+Fuzzy Hash	768:5yVYOts/vZk9AMtHwn7XXCEkMfoBRbgmVPwgMRrI7YK4:Sdts3eqNn7icoQdR7
+Packer	Borland Delphi 3.0 (???)
+Sha256	d08d737fa59edbea4568100cf83cff7bf930087aaa640f1b4edf48eea4e07b19
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	ece5b62a4ed4e88dab4f1b5451f54794
+Sha1	39941f87a6aa2a3a12a5a11c4ce39a93f064890b
+File Name	ywtdzsv7.cmdline
+Identifier	Attacker
+File Size	361
+Fuzzy Hash	6:pAu+H2Lv5jrJDdq++bDdqB0dEARm59z/2AY5bjzqmGsSAE2CdEARm59z/2AY5bjb:p37Lv5jumjPQlqnPAE2CmjPQlP
+Sha256	bef4a501cf4ff91492268e46973af9c94663193fe52c7ffdb938d3c0455cace2
+Type	UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators
+Md5	02bbb9fe8eb976ca763833332cc68e46
+Sha1	43099cd7c7646b3d77d08d0703d46632f1c471b3
+File Name	nick435.tmp
+Identifier	Attacker
+File Size	10
+Fuzzy Hash	3:5Zn:j
+Sha256	5486ecc66de4b9db35743ca43ded119494eaeb634c80a9b5068d919b60f569be
+Type	ASCII text, with no line terminators
+Md5	8bba3481fdd6f5c8d0806325254c8080
+Sha1	fa5859848e73e76c7036fb672a41b0d567951bc8
+File Name	UNKNOWN
+Identifier	Attacker
+File Size	105472
+Fuzzy Hash	1536:PMEFXcWn9wkAo7cK1pH++qjwuzjHw/xig3YpbzUhQQQlA:Pfcy9Ao7cKfH++MwuHwZsXKQQQlA
+Packer	Microsoft Visual C++ 8
+Sha256	0f143594b5fda4929a938b82d63489a85d247f9450520c8d26dbb44c23def1a4
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	6b843c190600c0870d663d2af6af2dcc
+Sha1	37883adf8bb4ad8ea5d641d5397128f16fde0b93
+File Name	zgqrp0zq.pdb
+Identifier	Attacker
+File Size	7680
+Fuzzy Hash	6:zz/BamfXllNS/6Xe5411mllxrS/77715KZYXxGQTae0KpYXxXe5aQioGggksl/cI:zz/H1W/6XNfSXS/pwiaqqXaiRD
+Sha256	a625382b2b111f77251853597d578c34458cd1023ba1966a207dbf3fbfa590b6
+Type	MSVC program database ver \002
+Md5	7ee895e1c256a1e1896b4024190b52df
+Sha1	44caca508a1fce06c538ff782d5fc0e56107d2ea
+File Name	ywtdzsv7.pdb
+Identifier	Attacker
+File Size	7680
+Fuzzy Hash	6:zz/BamfXllNS/mVEd1mllxrS/77715KZYXxGQTae0KpYXZVEsMoGggksl/cEDf:zz/H1W/MEXSXS/pwiaq8EtRD
+Sha256	df04914791d1d36c7fbae217c67b0f957ca51b6ab8fda51bf21b613368dd6478
+Type	MSVC program database ver \002
+Md5	520f5ad9c6ff5afd82b8439589124b59
+Sha1	e00f6a5df85b256084dc277163d6c916d2133e64
+File Name	secure.exe
+Identifier	Attacker
+File Size	369152
+Fuzzy Hash	6144:i3dP9v0fGSLexD8Bvn0aRLrk6eJFfbPoCasItUPMi54rni6kYrw0+AP/JPwCZk2U:i3dP9MfGp81n096EZewMi54ribFyJZ3a
+Packer	Microsoft Visual C++ v7.0
+Sha256	9769f422e2a84b5747e0b045062d622024c2f302be8ee30b5bbf9f4f64ac88f4
+Type	PE32 executable for MS Windows (console) Intel 80386 32-bit
+Md5	99bce83e77383f50fcc3fa67266ca646
+Sha1	a0c1447bd5752d90767b8024aa9c93da1e347940
+File Name	Save.tmp
+Identifier	Attacker
+File Size	274
+Fuzzy Hash	6:SUUUUUUUUUyqWn+SmqlrgHoNUUUUUUUUUyek8jzUUUUUUUUUyqWn+SmIUwnJ4sct:SUUUUUUUUURNqpPNUUUUUUUUU4uzUUUR
+Sha256	b5cd7397ba667cb80538bc82cc422ca1d11969c0cd1356e8fdae748052ea90b7
+Type	data
+Md5	14ec45a1dc86913d2d832b593d6fe7a2
+Sha1	1ad2f6a4b122d57ecb23bf5876a8ded6470ed4d6
+File Name	dvvm.exetmp1.vbs
+Identifier	Attacker
+File Size	69
+Fuzzy Hash	3:cc7kvc/VHH/n0eFHlTndAFrK:3kEVn/lFHljCFm
+Sha256	dbf099ee10341f471b47e8651a92c5c6b6a9505255f75d0edcd7ea539b2574a3
+Type	ASCII text, with CRLF line terminators
+Md5	39ac4187aaf38b986ff238c23daaf94e
+Sha1	3052a72c11d49758c6e2972c542ac385669f6ee9
+File Name	ywtdzsv7.out
+Identifier	Attacker
+File Size	682
+Fuzzy Hash	12:tjPQjSOnzR37Lv5jumjPQlqnPAE2CmjPQl2Kai3WEKIMBj6I5BFR5y:V8SOnzd35jV6qnIE2Cu62Kai3rKIMl6v
+Sha256	332777103b8d67d10a02c1d1900fa5e0131eb59f0c1478dcdd8a78c3c37275bd
+Type	UTF-8 Unicode (with BOM) text, with very long lines, with CRLF line terminators
+Md5	d6f61635d08fedbc697528fdfdf0243d
+Sha1	a3825b85a9270be298f02966ef7e90b878bc7451
+File Name	zgqrp0zq.cmdline
+Identifier	Attacker
+File Size	361
+Fuzzy Hash	6:pAu+H2Lv5jrJDdq++bDdqB0dEARm59z/2AY5btVfPmGsSAE2CdEARm59z/2AY5b4:p37Lv5jumjPQXVXnPAE2CmjPQXV4
+Sha256	2b632a1d9eaceda5611a9f90aa94443358fa56cddd66def53d82d768fcf3c558
+Type	UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators
+Md5	7aa8e99e3a6dc4eea60b24a1b42c88e8
+Sha1	a6c485631c1407d72dfb9daa01dd951fcccf5165
+File Name	RESDD.tmp
+Identifier	Attacker
+File Size	1220
+Fuzzy Hash	24:H1h9wumJZUJ3TUnhKLI+ycuZhNXakSJPNnqjld:au8nhKL1ulXa3rqjP
+Sha256	573975752bb7b9065db63dd611781e0a77977b1799665700046d08ebd66ecfe0
+Type	80386 COFF executable not stripped - version 25189
+Md5	e8a316e527c902f5d6dafc41a543ac82
+Sha1	74e32a7d8151e60553e15c32d2460ce1cda44149
+File Name	flashplayer.exe
+Identifier	Attacker
+File Size	2065408
+Fuzzy Hash	49152:Y5KTjnMyT1OodNCDe8dUi0A0YHc8r+z4yzJHKZ9fnAei26FuoK8:ZTjnxTtdee8dh0A0YHc8ruDJHK/nAeil
+Packer	Microsoft Visual C++ 8
+Sha256	8b7f1015c82d526599497f3026ba367b0683b3ef4d78ded749010c0c7439952c
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	7ddc67ef86ea12c2d368c33e52c0b47a
+Sha1	b58a8047074fea0a61322263be99598125ced570
+File Name	CSCDC.tmp
+Identifier	Attacker
+File Size	652
+Fuzzy Hash	12:DXt4Ii3ntuAHia5YA49aUGiqMZAiN5gryWUJak7Ynqq7U+PN5Dlq5J:+RI+ycuZhNXakSJPNnqX
+Sha256	49806817bfda29e37a094062311856284edc94bf4ee679f6e25ebfc339057d68
+Type	MSVC .res
+Md5	a496b06b37b34ddc263b3164d1231c26
+Sha1	84ad2263701b370caa15ec6142fa81b2db3342c2
+File Name	flashplayer.exe
+Identifier	Related
+File Size	1190616
+Fuzzy Hash	24576:pLIjnopwsfAHYd0pce51YTrhs75+7jDBtx9pNPAlv5yB/GNOHtvC1B:Q0yCe53qH9mEJG4HE
+Packer	PECompact 2.x -> Jeremy Collake
+Sha256	22225caeedc7e46ccc98af1c6622c626f4d75a93b6a9976a2eed11b429e59188
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	96c436d7e2b49f213a983cb3e648b04d
+Sha1	22f3f57850ede3019b4825aa6c8808cc711223b9
+File Name	dvvm.exe
+Identifier	Attacker
+File Size	39936
+Fuzzy Hash	768:5yVYOts/vZk9AMtHwn7XXCEkMfoBRbgmVPwgMRrI7YK4:Sdts3eqNn7icoQdR7
+Packer	Borland Delphi 3.0 (???)
+Sha256	d08d737fa59edbea4568100cf83cff7bf930087aaa640f1b4edf48eea4e07b19
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	ece5b62a4ed4e88dab4f1b5451f54794
+Sha1	40ae1b13a340b6ff3ee8da6f75d3bf9cb67f3b6f
+File Name	taskmgor.exe
+Identifier	Attacker
+File Size	392704
+Fuzzy Hash	6144:JS4uLZafn14KtsNpEKCxZh2wuovEcq6qBbLL2uegxfkgD9mx1VphUz2L3arwI+AY:I4uLZCn14KKubxD3uov3bOJenFgz2zj8
+Packer	Microsoft Visual C++ v7.0
+Sha256	86db81f6d9c7e538ebbf60e6eb6204c3a432a277823b148695dbc16849416163
+Type	PE32 executable for MS Windows (console) Intel 80386 32-bit
+Md5	282d5d0ff090299416f1eb5c9b1b7e9a
+Sha1	f26a4a48518a5608e93c8b77368f588b0433973c
+File Name	zgqrp0zq.0.cs
+Identifier	Attacker
+File Size	557
+Fuzzy Hash	12:V/DTLDfuUv+mQMTHtc9JFqmmsmPzJJ+djqA3Iy:JjmA+mZTH29LqtsmPzudYy
+Sha256	b240a9bb4f72d886522e19fa40b9c688fa94c1bd6dc7b7185f94e4466273a5dc
+Type	UTF-8 Unicode (with BOM) C++ program text, with very long lines
+Md5	7319070c34daa5f6f2ece2dfc07119ee
+Sha1	acc74489ef0db80478a07168b73d51b7497818cf
+File Name	dvvm.exetmp.vbs
+Identifier	Attacker
+File Size	366
+Fuzzy Hash	6:sQ7M+7y3+yw6+dtXeM1jGkOAu7sQnKmr1Q3m3BMURpBHB2h:sQ7dGktOM1GkOArQ/Um3BMUbBH8h
+Sha256	648bb6e87c3ca886192774f33f5f4971e9cfdbe53db3fd508099d494dab68051
+Type	ASCII text, with CRLF line terminators
+Md5	9fb92746bfe954a87b11a342f55ce224
+Sha1	46d46462c0ffd15eab951e6e697780dbf6efe091
+File Name	microsoftupdate.exe
+Identifier	Attacker
+File Size	196608
+Fuzzy Hash	3072:6owqmZx9fb916mEBxzcL/rafWUONrDpGHWz4OGc2Ttdy9k+IVorjb/:eHlb916FBxwmfANrDp/DeyeJy
+Packer	Microsoft Visual C++ v6.0
+Sha256	ba3560d3c789984ca29d80f0a2ea38a224e776087e0f28104569630f870adaf4
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	49597b269fdf37faaa0962efc838aac7
+Sha1	baea37b170c65b6393a24f6bdacac0d04200626f
+File Name	zgqrp0zq.out
+Identifier	Attacker
+File Size	682
+Fuzzy Hash	12:tjPQjSOnzR37Lv5jumjPQXVXnPAE2CmjPQXVtKai3WEKIMBj6I5BFR5y:V8SOnzd35jVsnIE2Cu4Kai3rKIMl6I5G
+Sha256	4d860dcd6b4dd131911cb3e82d8351aa8740f1b364f2fd104311d423b9355156
+Type	UTF-8 Unicode (with BOM) text, with very long lines, with CRLF line terminators
+Md5	dbc534efc7c2dd2d529f59291d1ed0fc
+Sha1	8eb58fc6a1416adc65c3c237d59b6bd7d76a69d6
+File Name	flashplayer19_install.exe
+Identifier	Attacker
+File Size	2179072
+Fuzzy Hash	24576:HG8154OavfMNman8jaMwLeXfB0yfM8GUS/heII8oyn6yKXbs1x3/rcpBpnuq9zq4:J1ka82MNJKU0n8Xg1V/yrBXP
+Packer	Microsoft Visual C++ v6.0
+Sha256	ae2890d330da00fa8b1103718e90eb0bd389f65d3831590971bfcf6b87a8f7f0
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	db2c63eb90fe76111b1550f9409d9d16
+Description	Persistence for an IRCBot
+Registry Hive	HKCU\Software\Microsoft\Windows\CurrentVersion\Run\explore
+Registry Key	explorer
+Registry Value	"%TEMP%\dvvm.exe" [1]
+Sha1	6b34cd7f2d9193744ae3ed4f7df17bbcde0b38db
+File Name	ywtdzsv7.dll
+Identifier	Attacker
+File Size	3584
+Fuzzy Hash	24:etGSgoMkT11e/0euTglCA3/qa8NX/XWbdPtkZfo7MXIJKN5SVHmh61FmI+ycuZhx:6gMu/XHZeXuuJqANqHA1ulqJa3Liq
+Packer	Microsoft Visual C# / Basic .NET
+Sha256	806d8a705d1b58409e11bcc881fd283310071dc1bcd964f05280505d87f46338
+Type	PE32 executable for MS Windows (DLL) (console) Intel 80386 32-bit Mono/.Net assembly
+Md5	d7fbb66bbbb8256ecc645a59c7a25db7
+Sha1	e1615d3385014b149fa0de0688d5ea7ead9b1a04
+File Name	winsys.lnk
+Identifier	Attacker
+File Size	883
+Fuzzy Hash	12:8mT9IX7hWmn+XmK/7mBtJMaMUMEtJedxig2nl/9t6UVdngGSjAfjPQ0BxiEGUB/U:8miOXVeYNEidxGlVtvuAb7BxaI/X49
+Sha256	425f2c172ee968e33fe6297347c96bb65cdc7e9542f03a7f825429a7e0bef558
+Type	MS Windows shortcut
+Md5	d759530444791de5c890fe4dc485f066
+Sha1	d5b0aae208ba44accb5746eeda05243cf04892a8
+File Name	interiordesigns.exe
+Identifier	Attacker
+File Size	2810488
+Fuzzy Hash	49152:AxHIdj6h6bTYwYS8v1IeSBlb3yvPkVV9K/Wijg5qmt801FuOMwkbZbP418n3a:AGdj6h6np8qJrb3yvPkVzK/WBEmt80JT
+Packer	Microsoft Visual C++ 8
+Sha256	2d6037959a8a462690bb98758cdce1aa436b17521abce862d6e5a575b55ed1a1
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	5cbf67bc5b4b8a8339d5bc5e09a0364d
+Sha1	c7b9927e5667672382bb1330d626afc78bc57ee4
+File Name	securitywarning.apk
+Identifier	Attacker
+File Size	7513
+Fuzzy Hash	192:NxG6fqZMpfEw/FQACRbsgFmnrzLSyFYSRj:6mqyMwWACNLQSy+SRj
+Sha256	d9df90b7126c2df33bbe2a4f3d89e8550ec334fd41c9d3d357041a26973e8d91
+Type	Zip archive data, at least v2.0 to extract
+Md5	0796d76defb4f4ad1eaccd2b7f2fe343
+Sha1	3d94d71a23f73f84335170371bbc15acc5b5f15b
+File Name	zgqrp0zq.dll
+Identifier	Attacker
+File Size	3584
+Fuzzy Hash	24:etGSDMkT11e/0euTglCA3/qa8NX94WbdPtkZfAmMXIJKNzHHHocpRmI+ycuZhNXb:6ru/XHZeX9luJPANVHLm1ulXa3rq
+Packer	Microsoft Visual C# / Basic .NET
+Sha256	d0fa109dd306eb745f990e004fe455039b872083a25c3b94846c91569fd3ac2f
+Type	PE32 executable for MS Windows (DLL) (console) Intel 80386 32-bit Mono/.Net assembly
+Md5	c254dcb02e7526aa7c04d4d48e05c029
+Sha1	f26a4a48518a5608e93c8b77368f588b0433973c
+File Name	ywtdzsv7.0.cs
+Identifier	Attacker
+File Size	557
+Fuzzy Hash	12:V/DTLDfuUv+mQMTHtc9JFqmmsmPzJJ+djqA3Iy:JjmA+mZTH29LqtsmPzudYy
+Sha256	b240a9bb4f72d886522e19fa40b9c688fa94c1bd6dc7b7185f94e4466273a5dc
+Type	UTF-8 Unicode (with BOM) C++ program text, with very long lines
+Md5	7319070c34daa5f6f2ece2dfc07119ee
+Sha1	7d94539bbc038a7f4fb1c7b5eb8b10f5252da8ad
+File Name	Slideshow1.exe
+Identifier	Related
+File Size	2378237
+Fuzzy Hash	49152:i4jkMPQtvp+1rM9U/oWoe8dlNBqhDONeefdXvQX:i4j/PQtT9U/oee4tOUe6X
+Packer	Borland Delphi 3.0 (???)
+Sha256	c2b065e1a63a30192e2e99eb4bcd44c23ca022f495bd17aa65d3505e35826960
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	a7adf752855a973abbfb04bf71bcba8a
+Sha1	ff90e09acbd38e5cb35b1727165f327844be6538
+File Name	flashplayer.bat
+Identifier	Attacker
+File Size	6775
+Fuzzy Hash	96:+b6bcZh3JZcZh+dS8hXUnV6lIvmKUPaMKau1Ke/m1L9mytWkfudtDW:gh5Ch4S8yn85amBMytWkfstDW
+Sha256	f4ca8b6a142d3f45b326d313d7a9a51b8b2356b2055807bf6b2f16e0f43a945d
+Type	ASCII text, with very long lines, with no line terminators
+Md5	b14e2e6657e4591f9cd40f7cfdced616
+Sha1	2e5be571a02334359f9dcb562cebf36b7dc522c5
+File Name	UNAVAILABLE
+Identifier	Attacker
+File Size	2183168
+Fuzzy Hash	24576:8hGOavfMNman8jajwLeXfB0yfM8GUS/heII8oyn6yKXbs1x3/rcpBpnuq9zq4Mkr:8+a82jNJKU0n8Xg1V/yrBXP
+Packer	Microsoft Visual C++ v6.0
+Sha256	43e84fb00f356e01f7d9c451c8b43bb3c193a4406f001cf589d380e99225d628
+Type	PE32 executable for MS Windows (GUI) Intel 80386 32-bit
+Md5	5eb673fee3b811910032788665886471
