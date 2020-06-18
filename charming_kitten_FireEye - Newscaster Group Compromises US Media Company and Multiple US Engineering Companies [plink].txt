@@ -1,0 +1,5 @@
+On one network, Mimikatz credential dumping was observed. 
+
+A short time later, the attacker accessed an Outlook Web Access instance. 
+
+Additionally, an RDP session leveraging plink/putty was detected attempting to connect with 45[.]76[.]81[.]117[.]
